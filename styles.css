@@ -81,22 +81,22 @@ section {
 }
 
 /* ⭐ New styles for the Love Pets project */
-#project3 {
+project3 {
   border-left: 5px solid #ff7f50;       /* coral accent stripe */
   background-color: #fff8f3;            /* soft peach background */
 }
 
-#project3 a {
+project3 a {
   color: #ff5733;                       /* bright orange link */
   font-weight: bold;
 }
 
-#project3 a:hover {
+project3 a:hover {
   text-decoration: underline;
   color: #c0392b;
 }
 
-#contact {
+contact {
   background-color: #fff;
   text-align: center;
 }
